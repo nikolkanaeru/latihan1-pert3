@@ -1,6 +1,6 @@
 {
-    "name": "latihan_hello",
-    "short_name": "latihan_hello",
+    "name": "latihan_flutter",
+    "short_name": "latihan_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
